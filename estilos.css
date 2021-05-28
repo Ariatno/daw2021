@@ -1,0 +1,17 @@
+body{
+border: gray 10px dashed;
+}
+.p{
+text-align: center;
+color: gold;
+}
+p{
+text-align: center;
+color: gold;
+}
+.for{
+	text-align: center;
+}
+.tit{
+	color: white;
+}
